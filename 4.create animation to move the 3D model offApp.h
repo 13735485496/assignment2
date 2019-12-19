@@ -1,4 +1,4 @@
-#pragma once
+4#pragma once
 
 #include "ofMain.h"
 #include "ofxAssimpModelLoader.h"
